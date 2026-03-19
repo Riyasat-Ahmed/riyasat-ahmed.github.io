@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "./static/css/main.0d0e24f8.css",
-    "main.js": "./static/js/main.3f332fa3.js",
+    "main.js": "./static/js/main.6e435081.js",
     "static/js/453.6d3c9503.chunk.js": "./static/js/453.6d3c9503.chunk.js",
     "static/media/cvpurple-removebg-preview.png": "./static/media/cvpurple-removebg-preview.10242deb58a58aa602d6.png",
-    "static/media/Riyasat Ahmed .docx.pdf": "./static/media/Riyasat Ahmed .docx.e522f42da4f70138dece.pdf",
+    "static/media/Riyasat Ahmed .docx.pdf": "./static/media/Riyasat Ahmed .docx.3687e14b4f702cde0475.pdf",
     "static/media/riyasat-portrait.png": "./static/media/riyasat-portrait.93b48500d208fb68f279.png",
     "static/media/output-onlinepngtools.png": "./static/media/output-onlinepngtools.6a081eccd655615e365a.png",
     "index.html": "./index.html",
     "main.0d0e24f8.css.map": "./static/css/main.0d0e24f8.css.map",
-    "main.3f332fa3.js.map": "./static/js/main.3f332fa3.js.map",
+    "main.6e435081.js.map": "./static/js/main.6e435081.js.map",
     "453.6d3c9503.chunk.js.map": "./static/js/453.6d3c9503.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0d0e24f8.css",
-    "static/js/main.3f332fa3.js"
+    "static/js/main.6e435081.js"
   ]
 }
